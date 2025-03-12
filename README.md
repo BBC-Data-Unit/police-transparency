@@ -61,11 +61,9 @@ We produced [this story pack](https://docs.google.com/document/d/1dWvZPsC-6ENZDM
 - A spokesperson for the Information Commissioner’s Office (ICO)
 
 
-
 # Partner usage
 
-The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
-
+The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. 
 
 ## Other usage
 
