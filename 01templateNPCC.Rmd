@@ -1,0 +1,72 @@
+---
+title: |
+  Police forces handling of FOI: explore the data
+output: 
+  html_document:
+    self_contained: true
+    lib_dir: site/libs
+
+params:
+  reg: "Anyville"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+warning = F,
+message = F)
+```
+
+# Policing transparency 
+
+A national policing unit has been criticised for telling local forces to block the release of information under laws designed to safeguard the public's right to know.
+
+The National Police Chiefs' Council (NPCC) has advised police forces not to reveal information on topics including the use of banned surveillance software and the spread of super-strength drugs, the BBC Shared Data Unit has found.
+
+Our investigation showed the NPCC CRU had:
+
+* advised local police forces on 1,706 FOI requests in the first three months of 2024 - equivalent to one in every 11 requests they received in that time
+* advised forces to rescind earlier responses and instead neither confirm or deny if their officers had used the face recognition search engine PimEyes, which has been banned by Scotland Yard, citing concerns about "negative press", according to documents obtained by Liberty Investigates
+* recorded the organisation of the requester in its database and had internal discussions mentioning when FOI responses would "likely attract media attention", contrary to the applicant-blind principle of FOI
+* said it could not share records of when it had conducted public interest tests and if and when it favoured disclosure of information, according to the spirit of FOI laws
+* had "mandatory referral" topics on which it wants local police forces to ask for advice but had only limited records of when it had advised on these 
+* The CRU advised police forces on FOI responses/internal review requests/ICO complaints from George Greenwood, ex-BBC and now investigations reporter at The Times including relating to copies of Metropolitan Police press office correspondence concerning the policing of the vigil at Clapham Common related to the death of Sarah Everard, and the use of tasers by officers on children.
+* Correspondence revealed under FOI showed the NPCC press office was asking about “Alex from BBC” with the CRU in relation to the Shared Data Unit’s FOI research into the spread of synthetic opioids before we had begun any conversation with the NPCC on the topic
+
+
+Explore the table below to find out how much your local police force used the CRU.
+
+```{r import packages}
+#import the tidyverse 
+library(tidyverse)
+#The datatables package 
+library(DT)
+```
+
+```{r import data}
+#store the URL
+fileloc = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXt6jo0Nj5Jysx7RgEYfWSWtS6ADEmi4Oyl4DUUMAm-RCRRc5m-Q04GrXlUmwxuA/pub?gid=2099987322&single=true&output=csv"
+
+#Tidyverse's read_csv function imports from it
+data = read_csv(fileloc)
+
+colnames(data) <- c("Force","Findings")
+```
+
+
+## Explore your area
+
+
+```{r table}
+#Create the datatable. Add a caption if you want
+DT::datatable(data,
+             style = 'bootstrap',
+             caption = 'Use of the NPCC by force', 
+             filter = 'top',
+             options = list(pageLength = 10, scrollX=TRUE,
+                             autoWidth = TRUE,
+                             order = list(1, 'asc') #order by col 1
+                              ), escape = F
+             )
+```
+
+
