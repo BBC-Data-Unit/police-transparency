@@ -1,6 +1,6 @@
 # Police FOI unit dubbed 'authoritarian censor'
 
-
+![](https://raw.githubusercontent.com/BBC-Data-Unit/policy-transparency/refs/heads/main/bda63ce1ab23ddb61030519ce83063ca2b10e4d8%20with%20copyright%20stamp.jpg)
 
 In March 2025, we [reported](https://www.bbc.co.uk/news/articles/cn0ypn4pyyro) how a national policing unit had been criticised for telling local forces to block the release of information under laws designed to safeguard the public's right to know.
 
