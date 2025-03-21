@@ -63,9 +63,17 @@ We produced [this story pack](https://docs.google.com/document/d/1dWvZPsC-6ENZDM
 
 # Partner usage
 
-The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. 
+The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
+
+- Epsom & Ewell Times: [Concerns over secretive policing include Surrey](https://epsomandewelltimes.com/concerns-over-secretive-policing-include-surrey) *6 March 2025*
+- Lancashire Telegraph: [NPPC's CRU received 11 per cent of FOI's from Lancashire Police](https://www.lancashiretelegraph.co.uk/news/25010684.cru-received-10-per-cent-fois-lancashire-police/) *17 March 2025*
 
 ## Other usage
 
 - Democracy for Sale: [Democracy for Sale journalists targeted by secretive police unit](https://democracyforsale.substack.com/p/democracy-for-sale-journalists-targeted-cru-police-unit-authoritarian-censor) *6 March 2025*
+- yahoo! news: [Lancs Police sent 11% of FOI requests to body accused of being 'authoritarian censor'](https://uk.news.yahoo.com/lancs-police-sent-11-foi-050000176.html) *17 March 2025*
+- Big Brother Watch: [BBC News – Police advised to hide information about facial recognition use](https://bigbrotherwatch.org.uk/press-coverage/bbc-news-police-advised-to-hide-information-about-facial-recognition-use/) *18 March 2025*
+- clairemiller.net: [Freedom of Information in the news – week ending 7/3/2025 – #FOIFriday](https://clairemiller.net/2025/03/freedom-of-information-in-the-news-week-ending-7-3-2025-foifriday/) *8 March 2025*
+- Policing Insight: [Police unit dubbed 'authoritarian censor'](https://policinginsight.com/media-monitoring/police-unit-dubbed-authoritarian-censor/)
 - Trailblazer: [Policing Transparency at Risk: Concerns Over 'Authoritarian Censorship' by National Police Unit](https://www.thetrailblazer.co.uk/politics/policing-transparency-at-risk-concerns-over-authoritarian-censorship-by-national-police-unit#:~:text=A%20national%20policing%20unit%2C%20the,%E2%80%A2)
+- Neil Wilby Media: [NPCC central role policing FOIA requests leads to serious questions over transparency](https://neilwilby.com/2025/03/19/npcc-central-role-policing-foia-requests-leads-to-serious-questions-over-transparency/) *19 March 2025*
