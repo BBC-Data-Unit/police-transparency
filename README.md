@@ -72,6 +72,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - Democracy for Sale: [Democracy for Sale journalists targeted by secretive police unit](https://democracyforsale.substack.com/p/democracy-for-sale-journalists-targeted-cru-police-unit-authoritarian-censor) *6 March 2025*
 - yahoo! news: [Lancs Police sent 11% of FOI requests to body accused of being 'authoritarian censor'](https://uk.news.yahoo.com/lancs-police-sent-11-foi-050000176.html) *17 March 2025*
+- MSN news: [Police unit dubbed 'authoritarian censor'](https://www.msn.com/en-us/news/world/police-unit-dubbed-authoritarian-censor/ar-AA1AlZ0V) *6 March 2025*
 - Big Brother Watch: [BBC News – Police advised to hide information about facial recognition use](https://bigbrotherwatch.org.uk/press-coverage/bbc-news-police-advised-to-hide-information-about-facial-recognition-use/) *18 March 2025*
 - clairemiller.net: [Freedom of Information in the news – week ending 7/3/2025 – #FOIFriday](https://clairemiller.net/2025/03/freedom-of-information-in-the-news-week-ending-7-3-2025-foifriday/) *8 March 2025*
 - Policing Insight: [Police unit dubbed 'authoritarian censor'](https://policinginsight.com/media-monitoring/police-unit-dubbed-authoritarian-censor/)
