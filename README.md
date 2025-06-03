@@ -65,6 +65,7 @@ We produced [this story pack](https://docs.google.com/document/d/1dWvZPsC-6ENZDM
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- The Detail: [PSNI told to withhold information on tech used to hack journalist’s phone](https://thedetail.tv/articles/psni-told-to-withhold-information-on-tech-used-to-hack-journalist-s-phone) *3 June 2025*
 - Epsom & Ewell Times: [Concerns over secretive policing include Surrey](https://epsomandewelltimes.com/concerns-over-secretive-policing-include-surrey) *6 March 2025*
 - Lancashire Telegraph: [NPPC's CRU received 11 per cent of FOI's from Lancashire Police](https://www.lancashiretelegraph.co.uk/news/25010684.cru-received-10-per-cent-fois-lancashire-police/) *17 March 2025*
 
